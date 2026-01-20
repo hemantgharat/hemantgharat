@@ -8,7 +8,7 @@ Welcome to my GitHub profile! I'm currently diving deep into Machine Learning an
 - **Web Frameworks**: Django, Flask, FastAPI
 - **Machine Learning**: Scikit-Learn, NumPy, Pandas, Matplotlib, Seaborn
 - **Databases**: MySQL, MongoDB, SQLite
-- **DevOps & Tools**: Docker, Git, GitHub, AWS Services, Jenkins, Argo CD
+- **DevOps & Tools**: Kubernetes, Docker, Git, GitHub, AWS Services, Jenkins, Argo CD
 - **Other**: Linux, Bash
 
 ## 🌱 Currently Learning
